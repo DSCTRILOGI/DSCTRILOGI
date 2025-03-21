@@ -2,7 +2,6 @@
 
 # 📊 GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSCTRILOGI&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DSCTRILOGI&theme=radical&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 # 🔤 Most Used Language :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSCTRILOGI&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
